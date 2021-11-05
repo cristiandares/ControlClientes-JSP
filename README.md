@@ -4,6 +4,9 @@ _Esta aplicacion es de control de clientes_
 
 _En esta ocación presento una aplicación de control de clientes creada con **HTML**, **CSS** y **JSP**_
 
+![imagPNG](https://user-images.githubusercontent.com/63164753/140554020-e780d6da-e656-494d-b735-52c3300d3dff.PNG)
+
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
